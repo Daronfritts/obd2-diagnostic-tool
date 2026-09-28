@@ -1,0 +1,10 @@
+# Starter list for future custom PID configuration.
+# Standard OBD2 PIDs are currently provided by python-OBD.
+
+[display]
+refresh_hz = 2
+
+[alerts]
+coolant_temp_f = 220
+system_voltage_low = 12.0
+system_voltage_high = 15.2
